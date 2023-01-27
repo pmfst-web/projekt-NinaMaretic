@@ -8,18 +8,18 @@
 
 # Opis projekta
 ## Kratki opis
-Ovdje ide opis projekta
+Sama ideja projekta je zapravo kako olakšati pri procesu mršavljenja, jer sam korisnik može odabrati koje od tih jela mu odgovara najbolje zbog kalorija.
 
 ## Popis funkcionalnosti
-1. a
-2. b
-3. c
+1. a Popis mogućih namjernica, pritiskom na neku od njih otvaranje novog ekrana sa recepetom i opisom.
+2. b Podjela namjernica prema favoritima
+3. c Podjela namjernica prema dijelu dana.
 
 
 ## UPUTE
 ## Opis projekta
-Potrebno je napisati kratki opis projekta.
-Opis mora sadržavati popis osnovnih funkcionalnosti koje će biti implementirane (npr. "pretraživanje recepata", "unos novih recepta", "pretraživanje recepata po sastojcima" itd...)
+Na početnom ekranu biti će popis različitih namjernica.Odabirom neke od namjernica otvori se novi ekran u kojem će biti zapisan recept u kojem je ta namjernica. Biti će zapisan broj kalorija koje sadrži to jelo, naziv jela, kada je to jelo najbolje jesti za doručak, ručak ili večeru. Također biti će zapisano je li to jelo vaš favorit.Sama ideja projekta je zapravo kako olakšati pri procesu mršavljenja, jer sam korisnik može odabrati koje od tih jela mu odgovara najbolje zbog kalorija tako što će označiti to jelo svojim favoritom. Na drugom ekranu biti će prikazan popis namjernica koje su vaš favorit, tako da mogu brže biti dostupne korisniku kada je u procesu pripreme ili odabrira jela. Na trećem ekranu bih pokušala napravit podjelu doručak, ručak ili večera tako da svaka namjernica sa svojim receptom se filtrira u odgovarajuću grupu.
+Pretraživanje recepata po sastojcima, filtriranje prema dijelu dana kada se jede.
 
 ## Početna struktura aplikacije
 Potrebno je inicijalizirati početnu strukturu mobilne aplikacije.
