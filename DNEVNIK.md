@@ -1,12 +1,13 @@
 # Evidencija aktivnosti
-## dd.mm.2021.
+##10.6.2023.
 Pocetak | Kraj
 ------- | ----
-hh:mm   | hh:mm
+12:00  | 22:00
 ### Kratki opis promjena
-Definirani zahtjevi aplikacije.
-Dovršena prva faza projekta.
+Nacrtala sam kako će mi izgledat aplikacija.
+Definirala sam izgled početne stranice.
+Uredila boje,tekst ,dodala sliku.
+Napravila sam početnu stranicu na kojoj piše naziv aplikacije(ZDRAVI RECEPTI), te dodala početne "botune".
 
-## 23.12.2021.
-### Kratki opis promjena
-Napravio sam navigaciju
+
+
