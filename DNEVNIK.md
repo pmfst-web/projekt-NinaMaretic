@@ -30,6 +30,22 @@ Nakon što sam uspješno napravila na početnoj stranici tipku koja me vodi na d
 Imam male poteškoće sa tim drugim dijelom. 
 Sve sam definirala ali moram još razraditi taj dio.
 
+##13.6.2023.
+Pocetak | Kraj
+------- | ----
+08:00  | 11:00
 
+### Kratki opis promjena
+Definirala sam izgled stranice nakon što pritisnem botune na prvoj stranici. 
+Otvori mi se ekran na kojem je popis slika od recepata zajedno sam njihovim cijenama.
+Dodala sam mogućnost pretraživanje hrane prema tim receptima na toj stranici.
+Kada se odabere neko jelo onda se otvori nova stranica sa slikom i receptom ili nekim opisom vezanim za taj recepet.
 
+##15.6.2023.
+Pocetak | Kraj
+------- | ----
+11:00  | 17:30
 
+### Kratki opis promjena
+Na početnoj stranici sam dodala Tab navigator tako da mi je oznaka za početnu stranicu i za favorite.
+Dodala sam mogućnost da se neko jelo/recept oznaći favoritom pa se odma doda na tu stranicu sa favoritima.
