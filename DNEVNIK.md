@@ -49,3 +49,14 @@ Pocetak | Kraj
 ### Kratki opis promjena
 Na početnoj stranici sam dodala Tab navigator tako da mi je oznaka za početnu stranicu i za favorite.
 Dodala sam mogućnost da se neko jelo/recept oznaći favoritom pa se odma doda na tu stranicu sa favoritima.
+
+##18.6.2023.
+Pocetak | Kraj
+------- | ----
+18:00  | 19:00
+
+### Kratki opis promjena
+Provjerila sam još jednom projekt je li sve u redu. 
+Dodala sam sve što sam planirala u aplikaciju. 
+Postaviti ću ovdje link za svaki slučaj ako sam nešto krivo učitala.
+https://snack.expo.dev/7mpFODIlho
